@@ -39,7 +39,8 @@
           "item_id": 22,
           "text": "You probably won't like this item, but we're recommending it anyway so you'll buy it, won't like it, and then buy something else, consequently making us more money. After all, giving you a good recommendation isn't our goal, making money is."
         }
-      ],
+      ]
+    },
     {
       "name": "Recommended by the third system",
       "items":
