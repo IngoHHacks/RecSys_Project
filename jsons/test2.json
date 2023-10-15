@@ -1,25 +1,40 @@
 {
-  "username": "John Doe 2",
+  "username": "Tonydorrf",
   "item_id_interactions": [
-    12,
-    13,
-    14,
-    15,
-    16,
-    17
+    274152, 
+    161936, 
+    274690, 
+    264055, 
+    222514
   ],
   "recommendations": [
     {
-      "name": "Recommended by the first system",
+      "name": "Players Who Liked The Games: : IT: Evil Below, Talisman: Batman – Super-Villains Edition, Draftosaurus\n Also like:",
       "items":
       [
         {
-          "item_id": 18,
-          "text": "This game aligns very closely with your interests."
+          "item_id": 345976,
+          "text": ""
         },
         {
-          "item_id": 19,
-          "text": "Based on the games you've played, this game is a good fit for you."
+          "item_id": 249277,
+          "text": ""
+        },
+        {
+          "item_id": 249277,
+          "text": ""
+        },
+        {
+          "item_id": 342942,
+          "text": ""
+        },
+        {
+          "item_id": 16085,
+          "text": ""
+        },
+        {
+          "item_id": 256885,
+          "text": ""
         }
       ]
     },
